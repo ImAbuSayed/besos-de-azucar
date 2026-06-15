@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de azúcar
+
+This log tracks the cryptographic history and versioning for the song **Besos de azúcar** (besos-de-azucar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:33:44.272001 | `v1` | `cb1bc907b4711171940ceffe569dfba96b266e3d83f5dcf880fcd93fb1a243e3` | `7cb5d501ee5ff9342f669b442367c07e41e88536effc68e1c456b280ed9040ce` | `2026-06-15_besos-de-azucar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
