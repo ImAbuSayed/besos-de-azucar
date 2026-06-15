@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-azucar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Besos de azúcar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-azucar/) |
+| **Get License** | [Get License For Besos de azúcar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-azucar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3365)
 
 ---
 
