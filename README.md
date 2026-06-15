@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-azucar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos de azúcar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-azucar/) |
+| **Get License** | [Get License For Besos de azúcar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-azucar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Oye nena, esta noche la luna es nuestro testigo
+> Tus labios de caramelo cuando te pegas conmigo
+> Esos besos de azúcar me tienen en un viaje
+> Dime que te quedas, no quiero que esto baje
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
